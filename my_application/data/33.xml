@@ -1,0 +1,26 @@
+<annotation>
+	<folder>graffity_zone_argentina</folder>
+	<filename>33.jpg</filename>
+	<path>C:\dev\test_task\raw_pics\graffity_zone_argentina\33.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>604</width>
+		<height>456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>graffity</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>128</ymin>
+			<xmax>596</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+</annotation>

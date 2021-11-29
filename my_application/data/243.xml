@@ -1,0 +1,26 @@
+<annotation>
+	<folder>onthewall</folder>
+	<filename>243.jpg</filename>
+	<path>C:\dev\test_task\raw_pics\onthewall\243.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>852</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>graffity</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>72</ymin>
+			<xmax>669</xmax>
+			<ymax>633</ymax>
+		</bndbox>
+	</object>
+</annotation>

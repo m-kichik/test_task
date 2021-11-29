@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>070.jpg</filename>
+	<path>\content\YOLOX\datasets\VOCdevkit\VOC2012\JPEGImages\070.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>1531</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>graffity</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>329</xmin>
+			<ymin>120</ymin>
+			<xmax>1957</xmax>
+			<ymax>1276</ymax>
+		</bndbox>
+	</object>
+</annotation>

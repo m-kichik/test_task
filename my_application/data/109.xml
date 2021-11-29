@@ -1,0 +1,26 @@
+<annotation>
+	<folder>graffity_zone_china</folder>
+	<filename>109.jpg</filename>
+	<path>C:\dev\test_task\raw_pics\graffity_zone_china\109.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>604</width>
+		<height>389</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>graffity</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>113</ymin>
+			<xmax>585</xmax>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>
